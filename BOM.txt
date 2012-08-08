@@ -1,0 +1,17 @@
+MultiAMP bill of materials
+
+Calculated for one amplifier. Multiply with 4 for the joined layout.
+
+Component	Manufacturer	Package	Value	Quantity	Comments
+Capacitor	-		SMD	470nF	3		none
+Capacitor	-		SMD	100nF	2		none
+Resistor	-		SMD	100kOhm	1		none
+Resistor	-		SMD	10kOhm	3		none
+Resistor	-		SMD	1kOhm	2		none
+Resistor	-		SMD	500 Ohm	1		none
+Zener Diode	-		SMD	3.3V	1		only for 3.3V MC
+OpAmp LMC 6482	National Semi.	SO8	-	1		respect pin 1 mark for mounting
+Pot. 3296W	Bourns		THT	10kOhm	1		Bend legs for SMD mounting
+Pot. 3296W	Bourns		THT	100kOhm	1		Bend legs for SMD mounting
+Pot. 3224W	Bourns		SMD	10kOhm	1		to use instead of THT (more expensive)
+Pot. 3224W	Bourns		SMD	100kOhm	1		to use instead of THT (more expensive)
